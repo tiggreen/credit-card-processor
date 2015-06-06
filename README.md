@@ -26,3 +26,7 @@ The program consists of 4 different classes and one of them is the Test class to
 #### Future work
   * We can't have two credit card account with the same name 
   * We don't have a type for a credit card (VISA, MASTERCARD, etc), or close an account.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tiggreen/credit-card-processor/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
